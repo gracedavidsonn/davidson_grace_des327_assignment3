@@ -1,0 +1,4 @@
+shopping bag: <i class="fa-solid fa-bag-shopping"></i>
+instagram: <i class="fa-brands fa-instagram"></i>
+facebook: <i class="fa-brands fa-facebook"></i>
+email: <i class="fa-regular fa-envelope"></i>

@@ -1,0 +1,204 @@
+/* === TYPOGRAPHY === */
+
+body {
+    color: #3c5a6d;
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    line-height: 5px;
+}
+
+h2 {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+#splash h2 {
+    font-size: 36px;
+    line-height: 5px;
+}
+
+h2 strong {
+    font-weight: 800;
+}
+
+h3 {
+    color: #8db798;
+    font-family: 'Outfit', Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+nav a {
+    color:#3c5a6d;
+    text-decoration: none;
+    text-align: right;
+    padding-left: 10px;
+}
+
+#splash {
+    color: #fcf7ed;
+}
+
+#splash p {
+    font-size: 21px;
+    font-weight: 300;
+    text-transform: uppercase;
+    line-height: 5px;
+}
+
+h4 {
+    font-weight: 600;
+    line-height: 5px;
+}
+
+.clothingItem p {
+    line-height: 5px;
+}
+
+footer a {
+    color:#3c5a6d;
+    font-size: 36px;
+    padding-right: 20px;
+}
+
+footer p {
+    font-size: 14px;
+}
+
+/* === BACKGROUNDS === */
+
+body {
+    background-color: #fcf7ed;
+}
+
+#splash {
+    background-image: url(img/splash.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #a7d6b7;
+    border-radius: 20px;
+} 
+
+/* === BUTTONS === */
+
+button {
+    font-family: 'Nunito', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+    color: #fcf7ed;
+    background-color: #8db798;
+    font-size: 21px;
+    padding: 5px 20px 5px 20px;
+
+}
+
+#splash button {
+    color: #3c5a6d;
+    background-color: #a7d6b7;
+    font-size: 21px;
+    width: 100px;
+    margin-top: 10px;
+    padding: 5px 20px 5px 20px;
+}
+
+.clothingItem button {
+    color: #fcf7ed;
+    background-color: #8db798;
+    font-size: 24px;
+    font-weight: 900;
+    float: right;
+    margin-top: 20px;
+    padding: 5px 15px 5px 15px;
+    border-radius: 25px;
+}
+
+/* === LAYOUT === */
+
+body {
+    margin: 5%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding-bottom: 40px;
+
+}
+
+#logo img {
+    width: 100px;
+}
+
+#signature {
+    padding-left: 20px;
+    width: 60%;
+}
+
+#uiMenu {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    width: 35%;
+}
+
+nav {
+    align-self: flex-end;
+}
+
+#shoppingBag {
+    padding-bottom: 20px;
+    text-align: right;
+    font-size: 24px;
+}
+
+#splash {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    height: 400px;
+    padding: 20px 20px 20px 40px;
+    margin-bottom: 40px;
+}
+
+#clothingCollection {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.clothingItem {
+    flex-direction: column;
+    width: 23%;
+    padding-bottom: 40px;
+}
+
+.clothingItem img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+#seeMore {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 40px 0px 40px 0px;
+}

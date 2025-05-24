@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 77.24 77.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #a7d6b7;
+        stroke-dasharray: .24 18.4;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        fill: #3c5a6d;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <circle class="cls-1" cx="38.62" cy="38.62" r="35.62"/>
+      <g>
+        <g>
+          <ellipse class="cls-2" cx="31.08" cy="24.47" rx="5.35" ry="7.53" transform="translate(-3.78 5.77) rotate(-10)"/>
+          <ellipse class="cls-2" cx="20.24" cy="35.12" rx="5.35" ry="7.53" transform="translate(-5.79 4.05) rotate(-10)"/>
+          <ellipse class="cls-2" cx="57" cy="35.12" rx="7.53" ry="5.35" transform="translate(12.51 85.16) rotate(-80)"/>
+          <ellipse class="cls-2" cx="46.16" cy="24.47" rx="7.53" ry="5.35" transform="translate(14.05 65.68) rotate(-80)"/>
+        </g>
+        <path class="cls-2" d="M52.43,47.13c-2.09-2.49-6.69-6.83-10.01-9.88-2.15-1.97-5.45-1.97-7.6,0-3.32,3.05-7.93,7.39-10.01,9.88-2.83,3.38-2.39,8.42.99,11.25,1.5,1.26,3.32,1.87,5.13,1.87,2.28,0,4.54-.97,6.12-2.85l1.58-1.88,1.58,1.88c1.58,1.88,3.84,2.85,6.12,2.85,1.81,0,3.63-.61,5.13-1.87,3.38-2.84,3.82-7.87.98-11.25Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

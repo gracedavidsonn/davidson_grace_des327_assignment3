@@ -1,0 +1,5 @@
+cream: #fcf7ed
+lighter green: #a7d6b7
+darker green: #8db798
+blue: #3c5a6d
+pink: #fd7272
